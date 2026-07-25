@@ -21,4 +21,12 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0540-single-element-in-a-sorted-array) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3536-maximum-product-of-two-digits) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
