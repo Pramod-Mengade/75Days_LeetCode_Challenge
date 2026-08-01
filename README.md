@@ -34,6 +34,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3536-maximum-product-of-two-digits) |
@@ -56,6 +57,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 ## String
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -78,6 +80,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 ## Greedy
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
