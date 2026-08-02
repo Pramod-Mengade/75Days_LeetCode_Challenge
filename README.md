@@ -6,6 +6,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -71,6 +72,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0001-two-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
