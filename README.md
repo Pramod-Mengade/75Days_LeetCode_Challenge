@@ -62,6 +62,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -89,4 +90,12 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [1903-largest-odd-number-in-string](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
