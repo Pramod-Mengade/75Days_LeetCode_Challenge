@@ -7,6 +7,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -62,6 +63,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1903-largest-odd-number-in-string) |
@@ -103,4 +105,8 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0151-reverse-words-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
