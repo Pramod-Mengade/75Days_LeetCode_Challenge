@@ -47,6 +47,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -66,6 +67,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [0014-longest-common-prefix](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1903-largest-odd-number-in-string) |
@@ -84,6 +86,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | ------- |
 | [0001-two-sum](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0242-valid-anagram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
