@@ -14,6 +14,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [0136-single-number](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0217-contains-duplicate) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -31,6 +32,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -114,6 +116,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Trie
 |  |
 | ------- |
