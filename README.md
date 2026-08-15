@@ -10,6 +10,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [0014-longest-common-prefix](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -57,6 +58,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | ------- |
 | [0015-3sum](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0628-maximum-product-of-three-numbers) |
@@ -125,6 +127,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | ------- |
 | [0015-3sum](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0151-reverse-words-in-a-string) |
