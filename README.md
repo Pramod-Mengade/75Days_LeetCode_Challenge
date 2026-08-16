@@ -83,6 +83,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [0205-isomorphic-strings](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -117,6 +118,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -132,6 +134,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0844-backspace-string-compare](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Trie
 |  |
@@ -141,4 +144,8 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0796-rotate-string) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
