@@ -19,11 +19,8 @@ class Solution {
                 }
                 low++;
             }
-
-            if(map.size() <= 2 && map.size() != 0){
                 int len = (high - low ) +1;
                 maxLen = Math.max(maxLen , len);
-                }
             }
              return maxLen;
         }
