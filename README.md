@@ -81,6 +81,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0205-isomorphic-strings) |
@@ -103,6 +104,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0242-valid-anagram) |
@@ -155,6 +157,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
