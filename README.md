@@ -112,6 +112,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0242-valid-anagram) |
@@ -148,6 +149,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0844-backspace-string-compare](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0844-backspace-string-compare) |
@@ -183,8 +185,10 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
