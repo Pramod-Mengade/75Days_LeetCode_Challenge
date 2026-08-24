@@ -32,6 +32,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
@@ -189,6 +190,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
 | ------- |
