@@ -38,6 +38,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [1480-running-sum-of-1d-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1539-kth-missing-positive-number) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -221,4 +222,5 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [0053-maximum-subarray](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->
