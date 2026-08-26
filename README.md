@@ -32,6 +32,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [0977-squares-of-a-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1480-running-sum-of-1d-array) |
@@ -219,4 +220,5 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0152-maximum-product-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 <!---LeetCode Topics End-->
