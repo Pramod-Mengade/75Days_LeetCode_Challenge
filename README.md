@@ -27,6 +27,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [0287-find-the-duplicate-number](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0918-maximum-sum-circular-subarray) |
@@ -194,6 +195,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
