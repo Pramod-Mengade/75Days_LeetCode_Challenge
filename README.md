@@ -41,6 +41,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1539-kth-missing-positive-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1929-concatenation-of-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1929-concatenation-of-array) |
 ## Sliding Window
 |  |
 | ------- |
