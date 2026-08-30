@@ -37,6 +37,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1539-kth-missing-positive-number) |
