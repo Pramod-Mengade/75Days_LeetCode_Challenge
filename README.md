@@ -39,6 +39,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1539-kth-missing-positive-number) |
@@ -152,6 +153,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1021-remove-outermost-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -242,4 +244,8 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
