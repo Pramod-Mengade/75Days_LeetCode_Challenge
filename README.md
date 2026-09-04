@@ -25,6 +25,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [0209-minimum-size-subarray-sum](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0525-contiguous-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0724-find-pivot-index) |
@@ -136,6 +137,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [0242-valid-anagram](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -205,6 +207,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1004-max-consecutive-ones-iii) |
