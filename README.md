@@ -40,6 +40,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1470-shuffle-the-array) |
@@ -88,6 +89,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [0242-valid-anagram](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -123,6 +125,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 ## Counting Sort
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -143,6 +146,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [0525-contiguous-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
