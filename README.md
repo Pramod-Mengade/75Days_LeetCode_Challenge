@@ -37,6 +37,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [0918-maximum-sum-circular-subarray](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -188,6 +189,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [0844-backspace-string-compare](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0986-interval-list-intersections) |
 ## Trie
 |  |
 | ------- |
@@ -267,4 +269,8 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
