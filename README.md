@@ -7,6 +7,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0016-3sum-closest) |
@@ -57,6 +58,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0035-search-insert-position) |
@@ -245,6 +247,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
