@@ -78,6 +78,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1903-largest-odd-number-in-string) |
