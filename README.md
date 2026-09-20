@@ -233,6 +233,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -279,4 +280,8 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0986-interval-list-intersections) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
