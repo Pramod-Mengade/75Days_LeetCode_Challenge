@@ -238,6 +238,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [0206-reverse-linked-list](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
