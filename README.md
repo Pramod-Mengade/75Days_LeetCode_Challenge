@@ -198,6 +198,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [0876-middle-of-the-linked-list](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0986-interval-list-intersections) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [0237-delete-node-in-a-linked-list](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
