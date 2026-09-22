@@ -183,6 +183,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | [0015-3sum](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -233,6 +234,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0206-reverse-linked-list) |
