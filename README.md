@@ -115,6 +115,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0205-isomorphic-strings) |
@@ -169,6 +170,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1021-remove-outermost-parentheses) |
@@ -176,6 +178,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1021-remove-outermost-parentheses) |
 ## Two Pointers
 |  |
