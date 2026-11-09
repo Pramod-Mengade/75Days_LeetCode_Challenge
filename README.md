@@ -171,6 +171,7 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/1021-remove-outermost-parentheses) |
@@ -297,4 +298,16 @@ A collection of my daily LeetCode solutions in Java as part of the 75 Days LeetC
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0234-palindrome-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pramod-Mengade/75Days_LeetCode_Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
